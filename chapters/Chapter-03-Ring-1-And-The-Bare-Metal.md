@@ -1,7 +1,8 @@
 Chapter 3: 29 Jun 2026 — Ring -1 and the Bare Metal
 
 moksh-qos-dev | Mission: Quantum OS & AI Hypervised Kernel
-next 4 chapters including this are much fast forward if you can't understand then leave them 
+
+Next 4 chapters including this are much fast forward if you can't understand then leave them 
 we shall read them in a best way like a novel in next deep explaining chapters.
 
     "To control the system, you must stand beneath it."
