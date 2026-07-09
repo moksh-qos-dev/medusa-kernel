@@ -24,3 +24,7 @@ A kernel that hypervises AI, survives radiation, and NEVER freezes.
 ---
 **Star this if you’re reviving science.**  
 **Day 0 logged. 1459 to go. Quantum Time 2030: See you at Chapter 1460.**
+---
+
+### 📜 Kingdom of Science Notice
+*This repository is an independent, academic B.Tech thesis focusing on low-level systems engineering, classical virtualization, and theoretical quantum OS architecture. The term "Medusa" is utilized purely as a creative, fictional codename inspired by the anime Dr. Stone. This project is entirely open-source, non-commercial, and unaffiliated with any real-world corporation or existing software trademarks.*
