@@ -3,7 +3,7 @@ Chapter 6: 02 Jul 2026 — The Medusa Blueprint
 moksh-qos-dev | Mission: Quantum OS & AI Hypervised Kernel
 
     "Theory solidifies into architecture."
-
+ 
 The time skip is over. We are back in real-time, and we have the three pillars of Unit 1. Let's combine them into the official Medusa Architecture Blueprint:
 
     The Sub-Layer (Ring -1): A bare-metal, custom-written Type-1 Hypervisor that interfaces directly with the silicon.
