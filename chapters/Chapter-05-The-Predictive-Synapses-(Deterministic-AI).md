@@ -1,7 +1,7 @@
 Chapter 5: 01 Jul 2026 — The Predictive Synapses (Deterministic AI)
 
 moksh-qos-dev | Mission: Quantum OS & AI Hypervised Kernel
-
+ 
     "Reaction is a flaw. Anticipation is survival."
 
 Current hypervisors are reactive. They wait for a system to demand more memory, and then they allocate it. If a system gets stuck in an infinite loop and hogs the CPU, the hypervisor kills it after the damage is done.
