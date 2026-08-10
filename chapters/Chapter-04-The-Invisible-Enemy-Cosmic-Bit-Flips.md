@@ -1,6 +1,6 @@
 Chapter 4: 30 Jun 2026 — The Invisible Enemy: Cosmic Bit Flips
 
-moksh-qos-dev | Mission: Quantum OS & AI Hypervised Kernel
+moksh-qos-dev | Mission: Quantum OS & AI Hypervised Kernel 
 
     "A single rogue neutron can bring down a digital empire."
 
